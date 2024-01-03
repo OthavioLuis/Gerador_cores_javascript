@@ -15,8 +15,8 @@ main {
 }
 .container {
     width: 270px;
-    background-color: #133453;
-    color: #b8ccdd;
+    background-color: #f4f4f4;
+    color: #000000;
     text-align: center;
     padding: 30px;
     border-radius: 10px;
@@ -24,9 +24,8 @@ main {
 .botao {
     margin-top: 20px;
     padding: 6px 14px;
-    background-color: #041F37;
-    color: #b8ccdd;
-    border: 1px solid #133453;
+    background-color: #000000;
+    color: white;
     border-radius: 4px;
     font-size: 15px;
 }
