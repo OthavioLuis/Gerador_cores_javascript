@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+}
+body {
+    font-family: Open Sans;
+}
+main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 270px;
+    background-color: #133453;
+    color: #b8ccdd;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+}
+.botao {
+    margin-top: 20px;
+    padding: 6px 14px;
+    background-color: #041F37;
+    color: #b8ccdd;
+    border: 1px solid #133453;
+    border-radius: 4px;
+    font-size: 15px;
+}
